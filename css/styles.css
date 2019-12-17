@@ -110,7 +110,17 @@ header {
 .work-experience {
   background: #881600;
 }
-
+.work-experience .btn {
+  color: #E3E36A;
+  background: #C16200;
+  text-decoration: none;
+  padding: 15px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.work-experience .btn:hover {
+  background: #881600
+}
 
 
 /* Education
@@ -120,6 +130,7 @@ header {
   background-size: cover;
   background-position: top right;
   padding-bottom: 100px;
+  color: #881600;
 }
 .education p {
   width: 60%;
