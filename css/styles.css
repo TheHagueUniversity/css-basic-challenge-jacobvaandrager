@@ -52,6 +52,10 @@ h1, h2 {
   margin: 0 auto;
   padding: 60px 0;
 }
+
+
+
+
 h3 {
   margin-bottom: 0;
 }
@@ -135,6 +139,31 @@ header {
 .education p {
   width: 60%;
 }
+
+/* Food
+------------------------------------*/
+.food {
+  background: #C16200;
+}
+
+
+.gallery {
+  margin: 5px;
+  border: 5px solid #E3E36A;
+  width: 180px;
+}
+
+.gallery:hover {
+  border: 5px solid #881600;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+
+
 
 
 /* Contact Info
